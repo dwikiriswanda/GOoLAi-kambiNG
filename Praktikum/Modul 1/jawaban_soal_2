@@ -1,0 +1,20 @@
+1.[oneone]
+
+2.[degree]
+	a)	Buat program degree untuk menghitung dan mencetak suhu dalam satuan yang berlainan.
+	Input hanya terdiri dari satu baris saja, dan berisi satu bilangan riil, suhu dalam derajat Celcius.
+	Output terdiri dari 3 baris. Baris pertama adalah suhu dalam satuan Reamur, baris kedua suhu dalam satuan Fahrenheit, dan baris terakhir adalah suhu dalam satuan Kelvin.
+	Jawab : 
+
+	b)	Ubah cara perhitungan Kelvin menggunakan formula x derajat F sama dengan ⁵⁄9 (x+459.67) derajat K.
+	Setelah rekompilasi dan eksekusi, apa output yang diperoleh berbeda? Apa bedanya?
+	Jawab : output yang diperoleh sama, tidak ada yang berbeda.
+
+	c)	Sekali lagi ubah formula perhitungan Kelvin. Kali ini menggunakan formula x derajat F sama dengan ⁵⁄9 (x+459 + 2/3) derajat K.
+	Setelah rekompilasi dan eksekusi, apa yang kira-kira anda dapatkan?
+	Jawab : setelah di eksekusi didapat jawaban yang berbeda, tetapi angkanya mendekati sama
+
+	d)	Pelajaran apa yang kita peroleh dari ketiga output perhitungan suhu dalam derajat Kelvin ini?
+	Jawab : dari sini kita belajar mengenai tipe data number (float64) yang di operasikan dengan Operator
+
+3.[ascii]
